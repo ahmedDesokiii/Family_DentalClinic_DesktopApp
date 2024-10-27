@@ -1,0 +1,82 @@
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe.config
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.ResolveComReference.cache
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\Pages\Model\FamilyDB.mdf
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\Pages\Model\FamilyDB_log.ldf
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe.manifest
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.application
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.pdb
+E:\Family ERP V5\StemV5\StemV5\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csprojResolveAssemblyReference.cache
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.StartLoading_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Start.UsersLogin_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Forms.Finances_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Forms.Ortho_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.AllPatients_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Home_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Patient_FRM.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Properties.Resources.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.UserControlBlank.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.UserControlDay.resources
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.GenerateResource.Cache
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.exe.manifest
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.application
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.exe
+E:\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.pdb
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\Pages\Model\FamilyDB.mdf
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\Pages\Model\FamilyDB_log.ldf
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe.config
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe.manifest
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.application
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.pdb
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.AssemblyReference.cache
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.ResolveComReference.cache
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.StartLoading_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Start.UsersLogin_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Forms.Finances_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Forms.Ortho_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.AllPatients_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Home_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Patient_FRM.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Properties.Resources.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.UserControlBlank.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.UserControlDay.resources
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.GenerateResource.cache
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.CoreCompileInputs.cache
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.exe.manifest
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.application
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.exe
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.pdb
+F:\Work\Programming Work\C# - Beginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.Up2Date
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\Pages\Model\FamilyDB.mdf
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\Pages\Model\FamilyDB_log.ldf
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe.config
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe.manifest
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.application
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.exe
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\StemV5.pdb
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.AssemblyReference.cache
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.ResolveComReference.cache
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.StartLoading_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Start.UsersLogin_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Forms.Finances_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Forms.Ortho_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.AllPatients_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Home_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Pages.View.Tabs.Patient_FRM.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.Properties.Resources.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.UserControlBlank.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.UserControlDay.resources
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.GenerateResource.cache
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.CoreCompileInputs.cache
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.exe.manifest
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.application
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.csproj.Up2Date
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.exe
+F:\Work\Programming_Work\CshBeginner\Clients-Projects\Family Clinic\Family ERP V5\StemV5\StemV5\obj\Debug\StemV5.pdb

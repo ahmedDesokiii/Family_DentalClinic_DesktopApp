@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\FamilyClinic_Version_1.0.csproj|f:\\work2024\\aspnetprojects\\desktopapps\\familyclinic\\stemv5\\pages\\control\\class_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\FamilyClinic_Version_1.0.csproj|solutionrelative:stemv5\\pages\\control\\class_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\familydbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\familydbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\tabs\\forms\\patient_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\tabs\\forms\\patient_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\tabs\\forms\\ortho_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\tabs\\forms\\ortho_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\tabs\\forms\\finances_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\tabs\\forms\\finances_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\tabs\\forms\\allpatients_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\tabs\\forms\\allpatients_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\start\\home_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\start\\home_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\tabs\\forms\\patient_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\tabs\\forms\\patient_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\start\\home_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\start\\home_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\stemv5\\pages\\view\\tabs\\forms\\allpatients_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B225D4-434B-4BD8-A590-99162555D374}|StemV5\\StemV5.csproj|solutionrelative:stemv5\\pages\\view\\tabs\\forms\\allpatients_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FamilyDBDataSet.xsd",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\FamilyDBDataSet.xsd",
+              "RelativeDocumentMoniker": "StemV5\\FamilyDBDataSet.xsd",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\FamilyDBDataSet.xsd",
+              "RelativeToolTip": "StemV5\\FamilyDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-02T06:41:29.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class_Data.cs",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\Control\\Class_Data.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\Control\\Class_Data.cs",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\Control\\Class_Data.cs",
+              "RelativeToolTip": "StemV5\\Pages\\Control\\Class_Data.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBUAAADCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:31:07.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\App.config",
+              "RelativeDocumentMoniker": "StemV5\\App.config",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\App.config",
+              "RelativeToolTip": "StemV5\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-24T11:25:20.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient_FRM.cs [Design]",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs",
+              "ToolTip": "F:\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:26:40.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ortho_FRM.cs [Design]",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\Ortho_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Tabs\\Forms\\Ortho_FRM.cs",
+              "ToolTip": "F:\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\Ortho_FRM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\Ortho_FRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:26:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Finances_FRM.cs [Design]",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\Finances_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Tabs\\Forms\\Finances_FRM.cs",
+              "ToolTip": "F:\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\Finances_FRM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\Finances_FRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:26:23.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Program.cs",
+              "RelativeDocumentMoniker": "StemV5\\Program.cs",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Program.cs",
+              "RelativeToolTip": "StemV5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:19:55.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient_FRM.cs",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs",
+              "RelativeToolTip": "StemV5\\Pages\\View\\Tabs\\Forms\\Patient_FRM.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:19:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllPatients_FRM.cs",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs",
+              "RelativeToolTip": "StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:29:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllPatients_FRM.cs [Design]",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs",
+              "ToolTip": "F:\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Tabs\\Forms\\AllPatients_FRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:29:10.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home_FRM.cs",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Start\\Home_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Start\\Home_FRM.cs",
+              "ToolTip": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Start\\Home_FRM.cs",
+              "RelativeToolTip": "StemV5\\Pages\\View\\Start\\Home_FRM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:28:53.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home_FRM.cs [Design]",
+              "DocumentMoniker": "F:\\Work2024\\AspNetProjects\\DesktopApps\\FamilyClinic\\StemV5\\Pages\\View\\Start\\Home_FRM.cs",
+              "RelativeDocumentMoniker": "StemV5\\Pages\\View\\Start\\Home_FRM.cs",
+              "ToolTip": "F:\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Start\\Home_FRM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Work\\Programming_Work\\CshBeginner\\Clients-Projects\\Family Clinic\\Family ERP V5\\StemV5\\StemV5\\Pages\\View\\Start\\Home_FRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:28:48.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

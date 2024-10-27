@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{06B225D4-434B-4BD8-A590-99162555D374}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StemV5</RootNamespace>
+    <AssemblyName>StemV5</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>E:\FFFsetup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>11</ApplicationRevision>
+    <ApplicationVersion>1.0.0.11</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ddd.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F65C84EDFB887CDA3D6591256AA5AF9D403F6876</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>StemV5_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>StemV5.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\important Files\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FamilyDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FamilyDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Control\Calendar.cs" />
+    <Compile Include="Pages\Control\Class_Data.cs" />
+    <Compile Include="Pages\Control\Class_Ortho.cs" />
+    <Compile Include="Pages\Control\Class_Patient.cs" />
+    <Compile Include="Pages\View\Start\StartLoading_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Start\StartLoading_FRM.Designer.cs">
+      <DependentUpon>StartLoading_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View\Start\UsersLogin_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Start\UsersLogin_FRM.Designer.cs">
+      <DependentUpon>UsersLogin_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\Finances_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\Finances_FRM.Designer.cs">
+      <DependentUpon>Finances_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\Ortho_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\Ortho_FRM.Designer.cs">
+      <DependentUpon>Ortho_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\AllPatients_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\AllPatients_FRM.Designer.cs">
+      <DependentUpon>AllPatients_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View\Start\Home_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Start\Home_FRM.Designer.cs">
+      <DependentUpon>Home_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\Patient_FRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\View\Tabs\Forms\Patient_FRM.Designer.cs">
+      <DependentUpon>Patient_FRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBlank.Designer.cs">
+      <DependentUpon>UserControlBlank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDay.Designer.cs">
+      <DependentUpon>UserControlDay.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Pages\View\Start\StartLoading_FRM.resx">
+      <DependentUpon>StartLoading_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\View\Start\UsersLogin_FRM.resx">
+      <DependentUpon>UsersLogin_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\View\Tabs\Forms\Finances_FRM.resx">
+      <DependentUpon>Finances_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\View\Tabs\Forms\Ortho_FRM.resx">
+      <DependentUpon>Ortho_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\View\Tabs\Forms\AllPatients_FRM.resx">
+      <DependentUpon>AllPatients_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\View\Start\Home_FRM.resx">
+      <DependentUpon>Home_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\View\Tabs\Forms\Patient_FRM.resx">
+      <DependentUpon>Patient_FRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBlank.resx">
+      <DependentUpon>UserControlBlank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDay.resx">
+      <DependentUpon>UserControlDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="FamilyDBDataSet.xsc">
+      <DependentUpon>FamilyDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FamilyDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FamilyDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FamilyDBDataSet.xss">
+      <DependentUpon>FamilyDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ddd.ico" />
+    <Content Include="Pages\Model\FamilyDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Pages\Model\FamilyDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>FamilyDB.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\ins.png" />
+    <None Include="Resources\564793.png" />
+    <None Include="Resources\clos.png" />
+    <None Include="Resources\centerBrawz.png" />
+    <None Include="Resources\brawz.png" />
+    <None Include="Resources\brws.png" />
+    <None Include="Resources\rays.png" />
+    <None Include="Resources\ortho station.png" />
+    <None Include="Resources\patient station.png" />
+    <None Include="Resources\calnext.png" />
+    <None Include="Resources\calprev.png" />
+    <None Include="Resources\8991264.png" />
+    <None Include="Resources\ford-stem-logo-text-plus-media-1214x748-d-removebg-preview.png" />
+    <None Include="Resources\document-add-icon-16.png" />
+    <None Include="Resources\add-1-icon--flatastic-1-iconset--custom-icon-design-0.png" />
+    <None Include="Resources\blackC.png" />
+    <None Include="Resources\ttt.png" />
+    <None Include="Resources\toothChart.png" />
+    <None Include="Resources\teethsChartD.jpg" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\Settings-icon.png" />
+    <None Include="Resources\Back.png" />
+    <None Include="Resources\editt.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\reports.png" />
+    <None Include="Resources\teethchart.jpg" />
+    <None Include="Resources\patientlogo.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\newpatient.jpg" />
+    <None Include="Resources\chart.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\srst.png" />
+    <None Include="Resources\patients.png" />
+    <None Include="Resources\teeth.png" />
+    <None Include="Resources\L.png" />
+    <None Include="Resources\homelogo.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\startlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
